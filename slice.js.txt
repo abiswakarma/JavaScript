@@ -1,0 +1,2 @@
+var name = "ashish";
+name.slice(0,3);
